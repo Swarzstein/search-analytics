@@ -101,7 +101,7 @@ gem install rails
 Clone the repo into your local machine:
 
 ```bash
-git clone https://github.com/Swarzstein/test-project-helpjuice.git
+git clone https://github.com/Swarzstein/search-analytics.git
 ```
 Create the database by using a command
 
